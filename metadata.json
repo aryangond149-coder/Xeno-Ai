@@ -1,0 +1,8 @@
+{
+  "name": "Xeno AI",
+  "description": "A friendly, bilingual AI companion for chat, image analysis, and image generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
